@@ -9,4 +9,4 @@ binding = "ASSETS"
 [[d1_databases]]
 binding = "DB"
 database_name = "linkhub-visitors"
-database_id = "REPLACE_WITH_YOUR_D1_DATABASE_ID"
+database_id = "4c2f025a-29f4-4729-834a-037bb96cf4d9"
